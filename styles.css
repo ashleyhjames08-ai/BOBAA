@@ -1,0 +1,17 @@
+img {
+   width: 670px; 
+}
+body {
+    text-align: center;
+    border: 2px solid black;
+    margin: 200px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    font-family: 'Monaco', monospace;
+    background-color:rgb(208, 180, 144);
+    color: rgb(84, 35, 35);
+    font-size: 20px; 
+    text-align: center;
+
+
+}
